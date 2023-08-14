@@ -3,8 +3,7 @@ import sys,os
 import pandas as pd
 import numpy as np
 
-from dslib import sqlib
-from dslib import dflib
+from dslib import *
 
 from config import Conf
 cfg:Conf = Conf()
